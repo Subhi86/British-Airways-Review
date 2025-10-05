@@ -27,3 +27,4 @@ Bar Chart: Average overall rating by aircraft type and number of reviews.
 Filter Panel: Dynamic filters for deep exploration by user preferences and travel attributes.
 
 # Screenshot:
+![Dashboard Screenshot](Screenshot4.png)
